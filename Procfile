@@ -1,0 +1,1 @@
+web gunicorn Susan.wsgi:application --log-file -
