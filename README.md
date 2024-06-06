@@ -1,0 +1,2 @@
+# Susan
+My django project
